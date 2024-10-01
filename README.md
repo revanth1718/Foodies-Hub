@@ -22,3 +22,12 @@ First user should signin/login, on successful login, they will be redirected to 
   <li> Sign Up </li>
  <li> Login </li>
   </ul>
+
+  <h3>Our App looks like</h3>
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/71f20427-9912-4458-86a8-3529d1d68778">
+
+<img width="756" alt="image" src="https://github.com/user-attachments/assets/37801c91-2216-4d98-beae-9cedf5cfb0de">
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/7061b2e0-ba0a-4b4c-b64f-ec870cd8ec9f">
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/8a3637b9-c6fd-4a93-a121-579d8e6ed3e2">
